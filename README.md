@@ -51,7 +51,7 @@ Proyección de las tecnologías que los desarrolladores desean aprender y adopta
 Desglose demográfico incluyendo edad, ubicación geográfica y nivel educativo de los participantes.
 ![Dashboard Demografía](Dashboards/Dashboard_3.png)
 
-## 🏁 Conclusión
+## Conclusión
 El análisis confirma que las tendencias tecnológicas son predecibles. La industria avanza hacia herramientas abiertas y escalables (TypeScript, PostgreSQL), presentando oportunidades clave para desarrolladores que se formen en estas tecnologías emergentes.
 
 ---
