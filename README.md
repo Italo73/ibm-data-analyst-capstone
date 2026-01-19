@@ -3,26 +3,26 @@
 **Autor:** Italo López  
 **Fecha:** Diciembre 2025
 
-## 📄 Resumen Ejecutivo
+## Resumen
 Este proyecto finaliza el curso de IBM Data Analyst. El objetivo principal fue analizar las tendencias tecnológicas actuales y futuras en la industria del desarrollo de software, utilizando datos de la encuesta anual de Stack Overflow (aprox. 90.000 participantes).
 
 El análisis busca identificar hacia dónde se mueven los desarrolladores y caracterizar la fuerza laboral tecnológica global.
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 El proyecto implementó un flujo de trabajo completo de análisis de datos utilizando **Python**:
 * **Recolección de datos:** Web Scraping y consumo de APIs (biblioteca `requests`).
 * **Procesamiento:** Limpieza y estructuración de datos (Data Wrangling).
 * **Análisis:** Exploración estadística (distribución, detección de outliers y correlaciones).
 * **Visualización:** Creación de gráficos comparativos y Dashboards interactivos.
 
-## 🔍 Metodología
+## Metodología
 La metodología se dividió en las siguientes fases:
 1.  **Recopilación:** Obtención del dataset crudo mediante APIs y scraping.
 2.  **Limpieza:** Estandarización de datos para asegurar calidad.
 3.  **Análisis Exploratorio:** Identificación de patrones iniciales.
 4.  **Visualización:** Comunicación de resultados clave mediante gráficos y tableros de control.
 
-## 📊 Hallazgos Clave (Insights)
+## Hallazgos Clave
 
 ### 1. Tendencias en Lenguajes de Programación
 * **Dominio Actual:** JavaScript mantiene su liderazgo indiscutible en la industria.
@@ -37,7 +37,7 @@ La metodología se dividió en las siguientes fases:
 ### 3. Demografía
 * La demografía tecnológica sigue siendo homogénea, con predominancia de desarrolladores jóvenes y masculinos, evidenciando desafíos en diversidad geográfica y educativa.
 
-## 📈 Visualizaciones y Dashboards
+## Visualizaciones y Dashboards
 
 ### 🔹 Panorama Actual
 Visualización de los lenguajes, bases de datos y marcos de trabajo más utilizados actualmente por los desarrolladores.
